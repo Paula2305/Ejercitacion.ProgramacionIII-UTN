@@ -10,8 +10,8 @@
 
 <p>Este repositorio contiene la resolución de los ejercicios enviados por los profesores a lo largo de la cursada. Los ejercicios están organizados en carpetas, divididas según los contenidos vistos en clase. La materia está orientada a Desarrollo Web y se verán las siguientes tecnologías y frameworks: </p>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
