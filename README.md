@@ -15,5 +15,12 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-
 </div>
+
+<h6>Información extra</h6>
+<p><strong>Iconos:</strong> Los íconos utilizados en este repositorio fueron extraídos de <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-languages-" target="_blank">alexandresanlim</a>.</p>
+
+<h6>Contacto</h6>  
+<p>
+<a href="https://www.linkedin.com/in/paula-moreno--/" target="_blank">LinkedIn</a>
+</p>
