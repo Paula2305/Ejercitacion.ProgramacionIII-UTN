@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.primer-seccion{
+    background-color: aquamarine;
+}
+
+.segunda-seccion{
+    background-color: beige;
+}
+
+.palabra-tachada{
+    text-decoration: underline;
+}

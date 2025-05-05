@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Arial', sans-serif;
+    font-size: 60px;
+    
+}
+
+.resumen{
+    font-style: oblique;
+    margin-top: -20px;
+}
+
+hr{
+    margin-bottom: 30px;
+}
+
+p.texto-noticia:first-letter{
+    font-size : 200%;
+}
+
+.texto-noticia{
+    line-height: 1.3;
+}

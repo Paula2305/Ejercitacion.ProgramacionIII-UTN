@@ -17,10 +17,10 @@
 
 </div>
 
-<h6>Información extra</h6>
+<h4>Información extra</h4>
 <p><strong>Iconos:</strong> Los íconos utilizados en este repositorio fueron extraídos de <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-languages-" target="_blank">alexandresanlim</a>.</p>
 
-<h6>Contacto</h6>  
+<h4>Contacto</h4>  
 <p>
 <a href="https://www.linkedin.com/in/paula-moreno--/" target="_blank">LinkedIn</a>
 </p>
