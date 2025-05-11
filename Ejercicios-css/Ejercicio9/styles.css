@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+span{
+    text-transform: uppercase;
+}
+
+span.primer-span{
+    font-size: 20px;
+    letter-spacing: 6px;
+    word-spacing: 10px;
+}
+
+span.segundo-span{
+    font-size: 15px;
+    letter-spacing: 4px;
+    word-spacing: 8px;
+}
+
+span.tercer-span{
+    font-size: 10px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}

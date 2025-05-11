@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid 1px black;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    font-style: italic;
+}
+
+span.subrayado{
+    text-decoration: underline;
+    color: brown;
+}
+
+

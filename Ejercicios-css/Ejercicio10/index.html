@@ -1,0 +1,30 @@
+<!--[B.10] Subrayado y tachado 
+Definir en la hoja de estilo estas dos clases: 
+.subrayado { 
+color:#00aa00; 
+text-decoration:underline; 
+} 
+.tachado { 
+color:#00aa00; 
+text-decoration:line-through; 
+} 
+Luego, en la página HTML, definir un título con nivel h1 (subrayar todo el título). Luego un párrafo que tenga 
+algunas palabras subrayadas y otras tachadas (utilizar un elemento span para asignar estilos a una palabra). -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+    <title>Ejercicio 10 - CSS</title>
+</head>
+<body>
+    <h1 class="subrayado">Soy un título h1</h1>
+    
+    <p>Lorem, ipsum <span class="subrayado">dolor</span> sit amet <span class="tachado">consectetur</span> adipisicing elit. Atque <span class="tachado">nesciunt</span> ullam facilis voluptas nam voluptatibus officiis, <span class="subrayado">inventore</span> accusamus eos nemo. Possimus aliquam perferendis ratione ullam dolorem nobis <span class="tachado">dolorum</span> ducimus quas ipsam dolor?</p>
+    
+</body>
+</html>

@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    font-size: 100px;
+}
+
+h6{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    font-size: 100px;
+}
